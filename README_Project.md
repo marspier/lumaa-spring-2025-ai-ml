@@ -34,7 +34,11 @@ nltk.download('punkt')
 ## 🔍 How will it look?
  We will be using TF-IDF Vectorization & Cosine Similarity to recommend movies based on user descriptions.
 
- ✨ Example Query
+ ✨ Example Queries
+
+<img width="965" alt="Screen Shot 2025-02-21 at 6 29 51 PM" src="https://github.com/user-attachments/assets/9f1495b4-b94d-406d-9c8f-03d939817e26" />
+
+
 
 <img width="727" alt="Screen Shot 2025-02-21 at 6 24 45 PM" src="https://github.com/user-attachments/assets/57f36930-f04e-4114-83bf-6ceb0231194d" />
 
