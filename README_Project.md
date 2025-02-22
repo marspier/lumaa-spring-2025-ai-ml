@@ -1,10 +1,4 @@
-Dataset
-
-This project uses a dataset containing movie descriptions and metadata. The dataset was sourced from [provide source, e.g., Kaggle, IMDb, or a custom dataset]. Before using it, ensure it is placed in the project directory under data/movies.csv.
-
-**Setup**
-
-##Prerequisites
-
--Python 3.x (Recommended: Python 3.8 or later)
-
+🎥 Movie Recommendation System
+📂 Dataset
+Source: Your dataset contains movie titles and descriptions used for content-based recommendations.
+Loading Steps: Load the dataset into a Pandas DataFrame using pd.read_csv("your_dataset.csv").
