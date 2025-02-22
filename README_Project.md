@@ -3,6 +3,7 @@
 
 
 **Source**: [IMDB_100.csv](https://www.kaggle.com/datasets/kabhishm/imdb-100-movie-titles)
+
 **Loading Steps**: Load the dataset into a Pandas DataFrame using pd.read_csv("IMDB_100.csv").
 
 ### Click here to view project
