@@ -30,9 +30,11 @@ nltk.download('punkt')
 
 ### Steps to Run
 
-1.Open JupyterLab (jupyter lab) or Jupyter Notebook (jupyter notebook).
-2.Load the .ipynb file containing your code.
-3.Click Run on each cell sequentially.
+1. Open JupyterLab (jupyter lab) or Jupyter Notebook (jupyter notebook).
+
+2. Load the .ipynb file containing your code.
+
+3. Click Run on each cell sequentially.
 
 ## 🔍 How will it look?
  We will be using TF-IDF Vectorization & Cosine Similarity to recommend movies based on user descriptions.
