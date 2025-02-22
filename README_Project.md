@@ -5,12 +5,12 @@
 **Source**: Your dataset contains movie titles and descriptions used for content-based recommendations.
 **Loading Steps**: Load the dataset into a Pandas DataFrame using pd.read_csv("IMDB_100.csv").
 
-##🛠️ Setup
+## 🛠️ Setup
 
 ### Python Version
  Python 3.9 
 
-###Install Dependencies
+### Install Dependencies
 If required, install necessary packages using:
 pip install pandas scikit-learn nltk jupyter
 in order to use  NLTK resources:
