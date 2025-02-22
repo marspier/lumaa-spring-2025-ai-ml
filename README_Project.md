@@ -13,6 +13,7 @@
  Python 3.9 
 
 ### Install Dependencies
+
 If required, install necessary packages using:
 
 pip install pandas scikit-learn nltk jupyter
@@ -27,7 +28,7 @@ nltk.download('punkt')
 
 ## 🚀 Running the Project
 
- ### Steps to Run
+### Steps to Run
 
 1.Open JupyterLab (jupyter lab) or Jupyter Notebook (jupyter notebook).
 2.Load the .ipynb file containing your code.
