@@ -6,7 +6,7 @@
 
 **Loading Steps**: Load the dataset into a Pandas DataFrame using pd.read_csv("IMDB_100.csv").
 
-### Click here to view project➡️ 
+### Click here to view project➡️ [AI/ML Challenge](https://github.com/marspier/lumaa-spring-2025-ai-ml/blob/main/IMDB_100.pdf)
 ## 🛠️ Setup
 
 ### Python Version
