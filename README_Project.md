@@ -12,8 +12,11 @@
 
 ### Install Dependencies
 If required, install necessary packages using:
+
 pip install pandas scikit-learn nltk jupyter
+
 in order to use  NLTK resources:
+
 import nltk
 nltk.download('stopwords')
 nltk.download('wordnet')
