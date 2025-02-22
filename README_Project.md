@@ -6,8 +6,7 @@
 
 **Loading Steps**: Load the dataset into a Pandas DataFrame using pd.read_csv("IMDB_100.csv").
 
-### Click here to view project
-
+### Click here to view project➡️ 
 ## 🛠️ Setup
 
 ### Python Version
